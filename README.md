@@ -36,6 +36,7 @@ To set up the project on your local machine using XAMPP, follow these steps:
   Copy the extracted folder and place it inside the xampp/htdocs/folder directory.
 
 4.Set Up the Database:
+
   Open XAMPP Control Panel and start Apache and MySQL.
   Open your browser and navigate to http://localhost/phpmyadmin.
   Log in to PHPMyAdmin using your username and password.
