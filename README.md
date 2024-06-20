@@ -26,25 +26,25 @@ Decentralized Article Manager Application
 ## To set up the project on your local machine using XAMPP, follow these steps:
 
 1. **Ensure XAMPP is Installed:**
-  Make sure you have XAMPP installed on your PC. You can download it from Apache Friends.
+  - Make sure you have XAMPP installed on your PC. You can download it from Apache Friends.
 
 2. **Download the Project:**
-  Download the project zip file from this link.
-  Extract the zip file.
+  - Download the project zip file from this link.
+  - Extract the zip file.
 
 3. **Move Project to XAMPP Directory:**
-  Copy the extracted folder and place it inside the xampp/htdocs/folder directory.
+  - Copy the extracted folder and place it inside the xampp/htdocs/folder directory.
 
 4. **Set Up the Database:**
-  Open XAMPP Control Panel and start Apache and MySQL.
-  Open your browser and navigate to http://localhost/phpmyadmin.
-  Log in to PHPMyAdmin using your username and password.
-  Create a new database (e.g., my_database).
-  Click on the database you just created, then go to the Import tab.
-  Click on Choose File and select the database file from the SQL/ folder of the extracted project.
-  Click on Go to import the database.
+  - Open XAMPP Control Panel and start Apache and MySQL.
+  - Open your browser and navigate to http://localhost/phpmyadmin.
+  - Log in to PHPMyAdmin using your username and password.
+  - Create a new database (e.g., my_database).
+  - Click on the database you just created, then go to the Import tab.
+  - Click on Choose File and select the database file from the SQL/ folder of the extracted project.
+  - Click on Go to import the database.
   
 5. **Run the Project:**
-  Open your browser and navigate to http://localhost/folder/index.php to run the project.
+  - Open your browser and navigate to http://localhost/folder/index.php to run the project.
 
 ## That's it! Your project should now be set up and running.
