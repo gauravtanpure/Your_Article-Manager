@@ -1,7 +1,7 @@
-#Your_Article-Manager
+# Your_Article-Manager
 Decentralized Article Manager Application
 
-#Your-Article Project Screenshots
+# Your-Article Project Screenshots
 
 1) Login/Register:-
 ![image](https://github.com/gauravtanpure/Your_Article-Manager/assets/147535321/b12d3349-14d6-4005-a7e7-5ad124d6d3b0)
@@ -18,12 +18,11 @@ Decentralized Article Manager Application
 5) About Us:
 ![image](https://github.com/gauravtanpure/Your_Article-Manager/assets/147535321/f56d8836-1a23-47b0-a92e-685429be9fd4)
 
-#Follow Below Steps to Set Up the Project:-
+# Follow Below Steps to Set Up the Project:-
 
 
-Sure, here is the reconstructed set of instructions for your GitHub README file:
+# Installation Guide
 
-#Installation Guide
 To set up the project on your local machine using XAMPP, follow these steps:
 
 1. Ensure XAMPP is Installed:
