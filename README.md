@@ -48,3 +48,5 @@ Decentralized Article Manager Application
   - Open your browser and navigate to http://localhost/folder/index.php to run the project.
 
 ## That's it! Your project should now be set up and running.
+
+## Thank You for Reading...
