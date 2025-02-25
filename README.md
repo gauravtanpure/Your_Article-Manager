@@ -49,4 +49,3 @@ Decentralized Article Manager Application
 
 ## That's it! Your project should now be set up and running.
 
-## Thank You for Reading...
